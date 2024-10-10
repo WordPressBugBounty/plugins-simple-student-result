@@ -5,7 +5,7 @@ Plugin URI: http://ssr.saadamin.com
 Tags: simple student result, wordpress student result , wordrepss result plugin , wordpress student ,academic, academic result, student, student result, student result management system, result management system, education, result system, create marksheet online, online marksheet, online marksheet creator, result, easy student result, school, college, university, school result, college result, university result, create marksheet online, emarksheet , wordpress database , student result, student, result, result management system,  academic, academic result, university, education, ajax, student result management system, employee, university, education, result, result system, student, academic, employee entry, database, ajax, employee management system
 Requires at least: 3.8
 Tested up to: 6.6.2
-Stable tag: 1.8.8
+Stable tag: 1.8.9
 License: licensed under “GPLv2 or later”
 
 A simple student result or employee database system , can be used for multiple database entry management system. Fully ajax supported.
@@ -106,6 +106,7 @@ question: can I add/edit CGPA?<br>
 ans: Yes , you can, you will find CGPA item wp-admin panel below page.
 
  == Changelog ==
+ 1.8.9 all records page bug fixing.
  1.8.8 major bug fix.
  1.8.7 minor update.
  1.8.6 minor update.
